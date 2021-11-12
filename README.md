@@ -6,7 +6,7 @@ PHSU-MCC Partnership (https://www.phsu-moffitt.org/). In particular, the Quantit
 ## Installing
 To install this package, use
 ```
-devtools::install("steveneschrich/qsctemplates")
+devtools::install_github("steveneschrich/qsctemplates")
 ```
 Note there may be a few dependencies to install in addition, but that should happen automatically. 
 

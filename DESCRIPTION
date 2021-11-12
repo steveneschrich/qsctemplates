@@ -1,0 +1,17 @@
+Package: qsctemplates
+Title: PHSU-MCC Partnership Quantitative Sciences Core Template
+Version: 1.0.0
+Authors@R: 
+    person("Steven", "Eschrich", , "Steven.Eschrich@moffitt.org", role = c("aut", "cre"))
+Description: This package provides templates for rmarkdown work that are branded for the
+  Ponce Health Sciences University and Moffitt Cancer Center Partnership that is funded 
+  by a NCI PACHE U54 grant mechanism. As part of this grant, there is a 
+  Quantitative Sciences Core (QSC) consisting of biostatistics, bioinformatics and informatics
+  expertise. This package provides a skeleton template for use in R/RStudio.
+License:MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+  dsreportr
+Remotes: steveneschrich/dsreportr
